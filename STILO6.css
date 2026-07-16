@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(201, 64, 139);
+}
+.resaltado{
+    color: rgb(10, 10, 10);
+    background-color: rgb(226, 230, 11);
+    font-style: italic;
+}

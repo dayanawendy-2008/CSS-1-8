@@ -1,0 +1,20 @@
+.titulopagina {
+  text-align:center;
+  font-family:verdana;
+  font-size:40px;
+
+  border-top-width:1px;
+  border-right-width:3px;
+  border-bottom-width:3px;
+  border-left-width:1px;
+
+  border-top-style:dotted;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style:dotted;
+
+  border-top-color:#cb2a37;
+  border-right-color:#2c954f;
+  border-bottom-color:#d03cc8;
+  border-left-color:#ffaa00;
+}
