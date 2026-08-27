@@ -1,0 +1,16 @@
+
+#fechainicio li:only-child {
+  color:rgb(239, 71, 88);
+}
+
+#fechafin li:only-child {
+  color:rgb(109, 63, 71);
+}
+
+#equipo1 p:only-of-type {
+  color:rgb(28, 77, 224);
+}
+
+#equipo2 p:only-of-type {
+  color:rgb(211, 84, 10);
+}
