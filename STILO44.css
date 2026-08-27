@@ -1,0 +1,15 @@
+* {
+  margin:0;
+  padding:0;
+}
+#columna1 {
+  float:left; 
+  width:200px;
+  background-color:rgb(204, 134, 58);
+  border:1px solid #555;
+}
+#columna2 {
+  margin-left:210px;
+  background-color:rgb(96, 96, 183);
+  border:1px solid #555;
+}
